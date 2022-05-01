@@ -14,6 +14,8 @@ def func(work_book, start, end):
                 m.append('')
             else:
                 m.append(c.value)
+                
+##            m.append(str(c.value).split(" ")[0]) if type(c.value) == dt.datetime else m.append(c.value)
         l.append(tuple(m))
     
     [print(f"\t{i}",end=",\n") for i in l]
