@@ -23,6 +23,6 @@ def phone_number_validator(number: str) -> str:
 
 
 if __name__ == "__main__":
-    my_number: str = "6294769160"
+    my_number: str = "123456790"
 
     print(phone_number_validator(my_number))
