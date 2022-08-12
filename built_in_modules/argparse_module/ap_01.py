@@ -1,5 +1,4 @@
 import argparse
-import numpy as np
 
 '''
 parser = argparse.ArgumentParser(description="Calculate volume of a cylinder")
@@ -17,7 +16,11 @@ if __name__ == "__main__":
 '''
 
 
-parser = argparse.ArgumentParser(description="Get the full name of yours")
+parser = argparse.ArgumentParser(prog='ap_01',
+                                 usage='%(prog)s [options] -f -l -m',
+                                 description="Get the full name of yours",
+                                 epilog="End of the help.")
+
 parser.add_argument('-f', '--first_name', type=str, required=True , help='First Name')
 parser.add_argument('-m', '--middle_name', type=str, metavar='', help='Middle Name')
 parser.add_argument('-l', '--last_name', type=str, required=True, help='Last Name')
@@ -41,4 +44,3 @@ if __name__ == "__main__":
         print(f"Full name of {f}-{m or ''}-{l} is {fn}")
     else:
         print(fn)
-        
