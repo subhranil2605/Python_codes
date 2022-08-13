@@ -1,0 +1,38 @@
+00_Deep Learning playlist overview & Machine Learning intro
+01_Deep Learning explained
+02_Artificial Neural Networks explained
+03_Layers in a Neural Network explained
+04_Activation Functions in a Neural Network explained
+05_Training a Neural Network explained
+06_How a Neural Network Learns explained
+07_Loss in a Neural Network explained
+08_Learning Rate in a Neural Network explained
+09_Train, Test, & Validation Sets explained
+10_Predicting with a Neural Network explained
+11_Overfitting in a Neural Network explained
+12_Underfitting in a Neural Network explained
+13_Supervised Learning explained
+14_Unsupervised Learning explained
+15_Semi-supervised Learning explained
+16_Data Augmentation explained
+17_One-hot Encoding explained
+18_Convolutional Neural Networks (CNNs) explained
+19_Convolutions in Deep Learning - Interactive Demo App
+20_Visualizing Convolutional Filters from a CNN
+21_Zero Padding in Convolutional Neural Networks explained
+22_Max Pooling in Convolutional Neural Networks explained
+23_Max Pooling in Deep Learning - Interactive Demo App
+24_Backpropagation explained | Part 1 - The intuition
+25_Backpropagation explained | Part 2 - The mathematical notation
+26_Backpropagation explained | Part 3 - Mathematical observations
+27_Backpropagation explained | Part 4 - Calculating the gradient
+28_Backpropagation explained | Part 5 - What puts the "back" in backprop?
+29_Vanishing & Exploding Gradient explained | A problem resulting from backpropagation
+30_Weight Initialization explained | A way to reduce the vanishing gradient problem
+31_Bias in an Artificial Neural Network explained | How bias impacts training
+32_Learnable Parameters in an Artificial Neural Network explained
+33_Learnable Parameters in a Convolutional Neural Network (CNN) explained
+34_Regularization in a Neural Network explained
+35_Batch Size in a Neural Network explained
+36_Fine-tuning a Neural Network explained
+37_Batch Normalization (“batch norm”) explained
