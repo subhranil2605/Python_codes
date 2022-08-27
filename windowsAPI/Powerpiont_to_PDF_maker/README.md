@@ -1,1 +1,6 @@
-py parsing.py D:\New folder\not needed
+# Powerpoint to PDF Converter
+
+## In windows command prompt try this.
+```console
+py parsing.py D:\folder\subfolder
+```
