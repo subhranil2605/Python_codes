@@ -1,6 +1,6 @@
 # Powerpoint to PDF Converter
 
 ## In windows command prompt try this.
-```console
+```bat
 py parsing.py D:\folder\subfolder
 ```
